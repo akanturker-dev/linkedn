@@ -1,4 +1,4 @@
-# GitHub 48-hour refresh script
+﻿# GitHub 48-hour refresh script
 $repoPath = "G:\Claude Projects\Asistanlar\linkedn"
 $lastPushFile = "$repoPath\.lastpush"
 
