@@ -1,0 +1,38 @@
+{
+  "serper_api_key": "",
+  "calisma_saatleri": {
+    "baslangic": 9,
+    "bitis": 19
+  },
+  "limitler": {
+    "baglanti_saatlik": 8,
+    "baglanti_gunluk": 15,
+    "baglanti_haftalik": 100,
+    "mesaj_gunluk": 20,
+    "linkedin_arama_gunluk": 20,
+    "degerlendirme_gunluk": 25
+  },
+  "puanlama": {
+    "rol_uyumlu": 3,
+    "rol_diger": 1,
+    "boyut_11_200": 3,
+    "boyut_201_500": 2,
+    "aktif_30_gun": 3,
+    "web_sitesi": 1,
+    "esik": 8
+  },
+  "boyut_dagilimi": {
+    "11-50": 40,
+    "51-200": 40,
+    "201-500": 20
+  },
+  "kontroller": {
+    "sirket": true,
+    "aktivite": true
+  },
+  "mesaj_sablonlari": {
+    "baglanti_notu": "Merhaba {ad}, sektördeki işletmelerin dijital görünürlüğünü incelerken profilinize denk geldim. Bağlantıda olalım isterim."
+  },
+  "otomasyon_aktif": false,
+  "headless_tarayici": false
+}

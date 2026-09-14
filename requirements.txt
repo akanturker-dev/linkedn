@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.9.2
+requests==2.32.3
+playwright==1.60.0
+greenlet==3.2.4
+openpyxl==3.1.5
+# 6.7 ve sonrasi bu bilgisayardaki Python 3.9.0'da acilmiyor: python3.dll'de PyCMethod_New yok (Python 3.9.2'de duzeldi)
+PySide6-Essentials==6.6.3.1
